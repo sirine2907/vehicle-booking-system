@@ -1,0 +1,9 @@
+# uploaded car images
+uploads/cars/*
+!uploads/cars/.gitkeep
+
+# editor files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
